@@ -1,0 +1,1 @@
+# Patika.dev İlk Web sayfası
